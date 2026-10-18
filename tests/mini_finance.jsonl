@@ -1,0 +1,2 @@
+{"type":"message","role":"user","content":[{"type":"input_text","text":"<system-reminder data-kind=\"memory\">财务口径见报表附件，报表里有上季度数字</system-reminder>先看下这个财务报表"}],"timestamp":1}
+{"type":"message","role":"user","content":[{"type":"input_text","text":"再核对一遍报表"}],"timestamp":2}
